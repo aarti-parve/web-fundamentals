@@ -1,0 +1,24 @@
+body {
+    background-color: antiquewhite;
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    padding-left: 43%;
+}
+
+label {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
