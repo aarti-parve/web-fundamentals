@@ -1,0 +1,90 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url("bg-8\ Nov.jpg");
+    background-size: cover;
+}
+
+header {
+    background-color: brown;
+    height: 80px;
+    line-height: 70px;
+    text-align: center;
+    margin-top: -20px;
+}
+
+nav {
+    background-color: rgb(245, 181, 181);
+    line-height: 15px;
+    margin-top: -20px;
+    height: 50px;
+}
+
+a {
+    color: black;
+    text-align: right;
+    text-decoration: none;
+}
+
+nav li {
+    float: right;
+    padding-right: 20px;
+    margin-right: 100px;
+    display: inline-block;
+}
+
+h2:hover {
+    color: brown;
+    display: block;
+}
+
+section {
+    height: 20%;
+    width: 100%;
+    margin-top: 30px;
+}
+
+img {
+    float: left;
+    height: 450px;
+    width: 350px;
+}
+
+span {
+    height: 450px;
+    width: 350px;
+    font-size: x-large;
+    padding-left: 100px;
+}
+
+article {
+    height: 20%;
+    width: 100%;
+    float: left;
+    font-size: larger;
+}
+
+article:hover {
+    background-color: bisque;
+}
+
+aside li {
+    float: left;
+    padding: 15px;
+}
+
+footer {
+    background-color: gray;
+    position: relative;
+    padding: 0px;
+    height: 10%;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+footer li {
+    padding-left: 50px;
+    display: inline-block;
+    margin-left: 20px;
+}
